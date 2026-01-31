@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+.venv/
+venv/
+
+# Build output
+dist/
+
+# Environment files
+.env
+
+# Large media files
+*.mp4
+*.avi
+*.mov
+
+# IDE
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Misc
+nul
+,claude/
